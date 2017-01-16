@@ -1,0 +1,15 @@
+{
+	"appname": "SampleApp",
+	"scope": "BuyerAdmin BuyerReader FullAccess",
+	"clientid": "64B8E917-F2A9-4FC2-BD1F-ED48AE897DE8",
+	"buyerid": null,
+	"catalogid": null,
+	"environment": "production",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
